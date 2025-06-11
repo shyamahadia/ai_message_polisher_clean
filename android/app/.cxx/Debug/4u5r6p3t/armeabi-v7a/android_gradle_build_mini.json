@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "C:\\flutter\\packages\\flutter_tools\\gradle\\src\\main\\groovy\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\shyam\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Flutter Workspace\\udemy_project_flutter\\flutter_udemy_project\\MyPortfolioApp\\AI Message Polisher\\ai_message_polisher\\android\\app\\.cxx\\Debug\\4u5r6p3t\\armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\shyam\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Flutter Workspace\\udemy_project_flutter\\flutter_udemy_project\\MyPortfolioApp\\AI Message Polisher\\ai_message_polisher\\android\\app\\.cxx\\Debug\\4u5r6p3t\\armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

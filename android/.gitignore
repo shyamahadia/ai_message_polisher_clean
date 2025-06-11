@@ -1,0 +1,64 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub-cache/
+build/
+flutter_*.png
+.flutter-plugins
+.flutter-plugins-dependencies
+.melos_tool/
+generated_plugin_registrant.dart
+
+# IntelliJ related
+.idea/
+*.iml
+
+# VS Code related
+.vscode/
+.history/
+
+# Android related
+android/.gradle/
+android/captures/
+android/gradlew
+android/gradlew.bat
+android/local.properties
+android/key.properties
+android/**/*.keystore
+android/**/*.jks
+android/.cxx/
+
+# iOS related
+ios/Flutter/Flutter.podspec
+ios/.symlinks/
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/build/
+ios/Flutter/Generated.xcconfig
+ios/Flutter/ephemeral/
+Podfile.lock
+
+# macOS related
+macos/Flutter/GeneratedPluginRegistrant.swift
+macos/Pods/
+macos/Runner.xcworkspace/
+macos/build/
+
+# Windows related
+windows/build/
+windows/Runner/GeneratedPluginRegistrant.cpp
+windows/Runner/GeneratedPluginRegistrant.h
+
+# Linux related
+linux/flutter/
+linux/ephemeral/
+linux/build/
+
+# Secrets
+lib/secrets.dart
+
+# Others
+*.log
+*.tmp
+*.lock
+*.DS_Store
